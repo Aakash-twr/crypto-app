@@ -2,7 +2,7 @@ import React from 'react'
 
 const Exchanges = () => {
   return (
-    <div className='homepage1'>
+    <div>
       exchanmges
     </div>
   )

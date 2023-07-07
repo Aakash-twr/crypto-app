@@ -27,6 +27,14 @@ a:hover{
 .homepage1{
   margin-left: 16rem;
 }
+.homepage2 {
+  margin-left: -16rem;
+}
+
+.news-img {
+  max-width: 8rem;
+  max-height: 6rem;
+}
 
 .navbar{
   flex: 0.2;
